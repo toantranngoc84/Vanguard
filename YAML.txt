@@ -1,0 +1,11 @@
+data:
+	final_demo: '..data/raw/df_final_demo.txt'
+	final_experiment: '..data/raw/df_final_experiment_clients.txt'
+	final_web1: '..data/raw/df_final_web_data_pt_1.txt'
+	final_web2: '..data/raw/df_final_web_data_pt_2.txt'
+	dexo_sorted_df: '..data/clean/dexp_sorted_df.csv'
+	filtered_control_df: '..data/clean/filtered_control_df.csv'
+	filtered_merge_df: '..data/clean/filtered_merge_df.csv'
+	filtered_test_df: '..data/clean/filtered_test_df.csv'
+	filtered_unknown_df: '..data/clean/filtered_unknown_df.csv'
+	
